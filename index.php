@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="CSS/style.css">
 </head>
 <body>
+    <h2>testando</h2>
     <form action="lgc.php" method="POST">
         <div>
             <label for="nome" class="label">Nome :</label>
